@@ -77,7 +77,7 @@ By default the value for this configuration is as follows (pretty-printed for cl
 
 ```javascript
 {
-  id: 'back-to-top',
+  id: 'jdvp-back-to-top',
   backgroundColor: '#FFF',
   textColor: '#000',
   innerHTML: '<svg style="margin: 0px;"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/></svg>',
