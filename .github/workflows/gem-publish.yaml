@@ -14,11 +14,11 @@ jobs:
       packages: write
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby 2.6
-      uses: ruby/setup-ruby@v1
+    - uses: actions/checkout@v4
+    - name: Set up Ruby 3.3
+      uses: ruby/setup-ruby@v3
       with:
-        ruby-version: "2.6"
+        ruby-version: "3.3"
 
     - name: Publish to RubyGems
       if: contains(github.ref, 'refs/tags/v')
