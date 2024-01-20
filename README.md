@@ -24,7 +24,9 @@ That's it! By default the styling for the widget will be as shown in the video b
 
 You can see this plugin in action on [my own personal site].
 
-![](doc/example.webp)
+| jdvp-back-to-top functionality |
+|-----------------------|
+| ![](doc/example.webp) |
 
 ## Configuration
 
@@ -54,7 +56,9 @@ jdvp_back_to_top:
 
 This accepts `true` or `false` as an argument and when enabled prints which files are being added or updated in the generated site, as shown in the example image below. By default, this value is `false`
 
-![](doc/logging.webp)
+| debug_logging enabled example |
+|-----------------------|
+| ![](doc/logging.webp) |
 
 ### Styling Options
 
