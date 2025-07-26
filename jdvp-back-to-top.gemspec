@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jdvp-back-to-top"
   spec.summary       = "Simple gem used to add a back-to-top widget to my site"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.authors       = ["JD Porterfield"]
   spec.email         = "jd.porterfield@alumni.rice.edu"
   spec.homepage      = "https://github.com/jdvp/jdvp-back-to-top"
